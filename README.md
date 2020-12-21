@@ -272,7 +272,7 @@ print(DF)
 Suppose we setup a vector `x` and would like to extract the element in its second position and assign it to a new object called `b`:
 ```R
 x <- 5:10
-b < x[2]
+b <- x[2]
 b
 ```
 
@@ -531,6 +531,7 @@ Two common formats for exporting an `.rmd` file include:
 - `.pdf` which will display as a PDF document
 
 Download the `.rmd` file in this repository and open it in RStudio.
+- [Link to download from Google Drive](https://drive.google.com/drive/folders/1V7F-chL0D3H-PGTURuYj-iMSBa38KjvP?usp=sharing) (ND users only)
 
 Explore how the file runs, as well as how it differs from your experience working through this lab using an RScript file or the Console.
 
