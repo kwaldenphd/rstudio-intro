@@ -569,6 +569,8 @@ library(rmarkdown)
 
 130. These lessons include numerous screen shots, videos, and more detailed explanations of exactly how RMarkdown works and what it is capable of.
 
+131. See also: Yihui Xie, J.J. Allaire, Garrett Grolemund, [*R Markdown: The Definitive Guide*](https://bookdown.org/yihui/rmarkdown/) (CRC, 2020).
+
 # Lab Notebook Questions
 
 You can submit your lab notebook as an R Script (`.r`) file or as an R Markdown (`.rmd`) file.
