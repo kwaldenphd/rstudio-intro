@@ -484,7 +484,7 @@ summary(my_data$sale.amount)
 install.packages("PACKAGE NAME")
 ```
 
-100. For example, to install the visualiation package `ggplot2`:
+100. For example, to install the visualization package `ggplot2`:
 ```R
 install.packages("ggplot2")
 ```
