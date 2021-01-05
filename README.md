@@ -13,6 +13,29 @@ This lab procedure is adapted from and based on Ryan Miller's ["A Crash Course i
 
 # Table of Contents
 
+- [R/RStudio Overview](#rrstudio-overview)
+  * [What is `R`?](#what-is-r)
+  * [What is `RStudio`?](#what-is-rstudio)
+- [Getting Started With `RStudio`](#getting-started-with-rstudio)
+  * [Accessing `RStudio`](#accessing-rstudio)
+  * [RStudio's Layout](#rstudios-layout)
+- [Using `R`](#using-r)
+  * [`R` as a Calculator](#r-as-a-calculator)
+  * [Help Documentation](#help-documentation)
+  * [Including Comments](#including-comments)
+- [Objects and Assignments](#objects-and-assignments)
+  * [Indexing](#indexing)
+- [Reading in Data](#reading-in-data)
+  * [Subsetting Data](#subsetting-data)
+  * [Logical Conditions and Subsetting](#logical-conditions-and-subsetting)
+- [Summarizing Data](#summarizing-data)
+  * [Tables, Bar Charts, and Histograms](#tables-bar-charts-and-histograms)
+  * [Numeric Summaries](#numeric-summaries)
+- [Packages](#packages)
+- [R Markdown](#r-markdown)
+  * [More on R Markdown](#more-on-r-markdown)
+- [Lab Notebook Questions](#lab-notebook-questions)  
+
 # R/RStudio Overview
 
 ## What is `R`?
