@@ -353,7 +353,7 @@ ncol(my_data) # prints the number of columns for my.data
 colnames(my_data) # prints the names of the variables or columns for my.data
 ```
 
-<blockquote>Q4: In your R Script, on a new line add the comment “Q4” and on the line(s) below write code that reads and stores the data located at https://raw.githubusercontent.com/kwaldenphd/rstudio-intro/main/IowaCityHomeSales.csv as “election_data”. Then write code that finds dimensions of this data.frame.</blockquote>
+<blockquote>Q4: In your R Script, on a new line add the comment “Q4” and on the line(s) below write code that reads and stores the data located at https://raw.githubusercontent.com/kwaldenphd/rstudio-intro/main/ElectionMargin.csv as “election_data”. Then write code that finds dimensions of this data.frame.</blockquote>
 
 ## Subsetting Data
 
