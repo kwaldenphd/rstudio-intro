@@ -581,7 +581,7 @@ Q2: In the R Script created for Q1, add a comment with the text “Q2” on your
 
 Q3: In your R Script, on a new line add the comment “Q3” and on the line(s) below this comment create a data.frame object named “dfn” containing a vector named “number” that is the integers from 1 to 10, and a vector named “number_squared” which is the integers from 1 to 10 squared.
 
-Q4: In your R Script, on a new line add the comment “Q4” and on the line(s) below write code that reads and stores the data located at https://raw.githubusercontent.com/kwaldenphd/rstudio-intro/main/IowaCityHomeSales.csv as “election_data”. Then write code that finds dimensions of this data.frame.
+Q4: In your R Script, on a new line add the comment “Q4” and on the line(s) below write code that reads and stores the data located at https://raw.githubusercontent.com/kwaldenphd/rstudio-intro/main/ElectionMargin.csv as “election_data”. Then write code that finds dimensions of this data.frame.
 
 Q5: In your R Script, on a new line add the comment “Q5” and on the line(s) below write code that create a new data.frame called “election_losers” that subsets “election_data” (which you created in Q4) to include only rows where the result was “Lost".
 
