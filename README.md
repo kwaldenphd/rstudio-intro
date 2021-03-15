@@ -7,6 +7,8 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 This lab provides a very brief introduction to `RStudio`, its user interface, some basic `R` programming, and a publishing extension known as `RMarkdown`.
 
+[Link to lab overview video](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68714f3-4dfb-4235-add5-accc013380d2) (Panopto, ND users).
+
 ## Acknowledgements
 
 This lab procedure is adapted from and based on Ryan Miller's ["A Crash Course in R" tutorial](https://remiller1450.github.io/s230f19/Intro_to_R.html) (Fall 2019, Intro to Data Science STA 230 course, Grinnell College).
