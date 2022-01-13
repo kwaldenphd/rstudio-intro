@@ -214,7 +214,7 @@ log(x = 4, base = 2)
 
 52. `R` stores data in containers called ***objects***. 
 
-53. Data is ***assigned*** to an object using `<=` or `=`.
+53. Data is ***assigned*** to an object using `<-`.
 
 54. After assignment, data can be referenced using the object name.
 
