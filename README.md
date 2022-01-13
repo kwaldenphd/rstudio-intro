@@ -38,6 +38,9 @@ This lab procedure is adapted from and based on Ryan Miller's ["A Crash Course i
   * [More on R Markdown](#more-on-r-markdown)
 - [Lab Notebook Questions](#lab-notebook-questions)  
 
+[Link to access lab materials via RStudio Cloud](https://rstudio.cloud/project/3435917)
+- You will need to save a permanent copy (`Save a Permanent Copy` icon in the top menu bar) to be able to modify, save, etc.
+
 # R/RStudio Overview
 
 ## What is `R`?
